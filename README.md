@@ -23,12 +23,12 @@
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
-    <td width="33%" align="center" valign="top" style="border: none; padding-right: 8px;">
+    <td width="33%" align="center" valign="top" style="border: none; padding-right: 6px;">
       <a href="https://github.com/ReverieVale/luna-notes">
         <img src="./assets/luna-notes.png" width="100%" alt="luna-notes">
       </a>
     </td>
-    <td width="33%" align="center" valign="top" style="border: none; padding-right: 8px;">
+    <td width="33%" align="center" valign="top" style="border: none; padding-right: 6px;">
       <a href="https://github.com/ReverieVale/inkscape">
         <img src="./assets/inkscape.png" width="100%" alt="inkscape">
       </a>
